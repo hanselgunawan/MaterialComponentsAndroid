@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/e4e5c7259b7bf01b91cd00b961f2a2f7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/4557942078031fdc799eac6ed0d27018/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/82884bd14d446815100600a3db31ca42/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/c2a5594b97195a64755103e21b51d3b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-alpha02.aar/7a13dff3e6275c95901cc529cff79a07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/7f4537d08281ea7d420372f94a64c49b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/094822b62696491acd647cc9d02a544e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/8c2ba8075163d5350d517f214e6b5860/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/76091f675ae0efb22476ad9defc1ebb1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/5682400afcd7456dc73376afa9b92f88/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/000bcc28d67031966592ea16b2fef014/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/15deda698aba65971f2aa0e424400ba5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/5e2c2531e5772e6d233360bbf99e0fb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/9ad51acdfac18a18a7a96157dcbf6c57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/aa6aabfd468d0702961f3dbb83e91713/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/13d060fa78cf43e8eb27b07538bcb4fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/d3bcf24e1a43f4c548cb8124791663ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/ab2ce37f4c9f5b25da956c8d6f13a38a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6103a2e6f8b7dbb166031d09a80f3732/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha03.aar/229d6fc0e3c421ba9daad7d2fd70ccf2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/cc0361026c517d27ef4986e020d9648f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2bf27be88909c98f6b69685674ce96a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/9ee3d312de4ad28e1d5abac37f217a41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/2f410fe6d5b03a8c8261a45be36b24f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ca7fb60680074085846394ec7dd7fa5c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c33db87b7f77ab5b3ff39380ac873833/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c4f28f6d71bff289b86d0a83a96143f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/bc526d8034ec0d4b09ecf6730af487fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/f8fd8875b078f620ec45e22c3064fded/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9d92f0137641d89d94f2da19d8b7f0d9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/aac1b2be553aa07c364d065843eabde5/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ed2308b27fd4017208f89cdf7d69b990/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/9d69c77022ded4d3701ba32198ee7fcb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a61fcdc9728853dcaa95c4cd73fecd18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/84cf198b678d904d1062308b58186154/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/b35da624ee9ac3cc4f438be5d50de76f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha03.aar/f50628d254658fb0b548211e7331bdd0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/e4e5c7259b7bf01b91cd00b961f2a2f7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/e4e5c7259b7bf01b91cd00b961f2a2f7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/82884bd14d446815100600a3db31ca42/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/82884bd14d446815100600a3db31ca42/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9d92f0137641d89d94f2da19d8b7f0d9/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9d92f0137641d89d94f2da19d8b7f0d9/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/aac1b2be553aa07c364d065843eabde5/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/aac1b2be553aa07c364d065843eabde5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9d92f0137641d89d94f2da19d8b7f0d9/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:11:9-45
+	android:roundIcon
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:14:9-91
+activity#com.google.codelabs.mdc.kotlin.shrine.MainActivity
+ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/e4e5c7259b7bf01b91cd00b961f2a2f7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/e4e5c7259b7bf01b91cd00b961f2a2f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/4557942078031fdc799eac6ed0d27018/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/4557942078031fdc799eac6ed0d27018/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/82884bd14d446815100600a3db31ca42/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/82884bd14d446815100600a3db31ca42/AndroidManifest.xml:7:5-43
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/c2a5594b97195a64755103e21b51d3b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/c2a5594b97195a64755103e21b51d3b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-alpha02.aar/7a13dff3e6275c95901cc529cff79a07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-alpha02.aar/7a13dff3e6275c95901cc529cff79a07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/7f4537d08281ea7d420372f94a64c49b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/7f4537d08281ea7d420372f94a64c49b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/094822b62696491acd647cc9d02a544e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/094822b62696491acd647cc9d02a544e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/8c2ba8075163d5350d517f214e6b5860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/8c2ba8075163d5350d517f214e6b5860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/76091f675ae0efb22476ad9defc1ebb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/76091f675ae0efb22476ad9defc1ebb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/5682400afcd7456dc73376afa9b92f88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/5682400afcd7456dc73376afa9b92f88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/000bcc28d67031966592ea16b2fef014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/000bcc28d67031966592ea16b2fef014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/15deda698aba65971f2aa0e424400ba5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/15deda698aba65971f2aa0e424400ba5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/5e2c2531e5772e6d233360bbf99e0fb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/5e2c2531e5772e6d233360bbf99e0fb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/9ad51acdfac18a18a7a96157dcbf6c57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/9ad51acdfac18a18a7a96157dcbf6c57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/aa6aabfd468d0702961f3dbb83e91713/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/aa6aabfd468d0702961f3dbb83e91713/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/13d060fa78cf43e8eb27b07538bcb4fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/13d060fa78cf43e8eb27b07538bcb4fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/d3bcf24e1a43f4c548cb8124791663ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/d3bcf24e1a43f4c548cb8124791663ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/ab2ce37f4c9f5b25da956c8d6f13a38a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/ab2ce37f4c9f5b25da956c8d6f13a38a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6103a2e6f8b7dbb166031d09a80f3732/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6103a2e6f8b7dbb166031d09a80f3732/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha03.aar/229d6fc0e3c421ba9daad7d2fd70ccf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha03.aar/229d6fc0e3c421ba9daad7d2fd70ccf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/cc0361026c517d27ef4986e020d9648f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/cc0361026c517d27ef4986e020d9648f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2bf27be88909c98f6b69685674ce96a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2bf27be88909c98f6b69685674ce96a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/9ee3d312de4ad28e1d5abac37f217a41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/9ee3d312de4ad28e1d5abac37f217a41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/2f410fe6d5b03a8c8261a45be36b24f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/2f410fe6d5b03a8c8261a45be36b24f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ca7fb60680074085846394ec7dd7fa5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ca7fb60680074085846394ec7dd7fa5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c33db87b7f77ab5b3ff39380ac873833/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c33db87b7f77ab5b3ff39380ac873833/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c4f28f6d71bff289b86d0a83a96143f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c4f28f6d71bff289b86d0a83a96143f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/bc526d8034ec0d4b09ecf6730af487fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/bc526d8034ec0d4b09ecf6730af487fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/f8fd8875b078f620ec45e22c3064fded/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/f8fd8875b078f620ec45e22c3064fded/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9d92f0137641d89d94f2da19d8b7f0d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9d92f0137641d89d94f2da19d8b7f0d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/aac1b2be553aa07c364d065843eabde5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/aac1b2be553aa07c364d065843eabde5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ed2308b27fd4017208f89cdf7d69b990/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ed2308b27fd4017208f89cdf7d69b990/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/9d69c77022ded4d3701ba32198ee7fcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/9d69c77022ded4d3701ba32198ee7fcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a61fcdc9728853dcaa95c4cd73fecd18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a61fcdc9728853dcaa95c4cd73fecd18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/84cf198b678d904d1062308b58186154/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/84cf198b678d904d1062308b58186154/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/b35da624ee9ac3cc4f438be5d50de76f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/b35da624ee9ac3cc4f438be5d50de76f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha03.aar/f50628d254658fb0b548211e7331bdd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /Users/hanseltritama/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha03.aar/f50628d254658fb0b548211e7331bdd0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanseltritama/Documents/MaterialComponentsAndroid/app/src/main/AndroidManifest.xml
